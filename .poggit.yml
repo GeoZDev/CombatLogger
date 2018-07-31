@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AirCow/CombatLogger
+branches:
+- master
+projects:
+  CombatLogger:
+    path: ""
+...
